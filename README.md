@@ -6,4 +6,4 @@ Main points:
 * OpenPilot version 15.05 is supported.
 * Arduino IDE 1.0.6 needs to be used with this. Versions beyond 1.0.6 might not be compatible.
 
-Rest of the documentation TBD.
+Rest of the documentation to be added later on ...
